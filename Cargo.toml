@@ -1,0 +1,10 @@
+[package]
+name = "untitled1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+font8x8 = "0.3.1"
+minifb = "0.28.0"
+rand = "0.10.2"
+rodio = "0.22.2"
